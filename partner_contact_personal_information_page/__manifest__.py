@@ -6,7 +6,7 @@
     "version": "12.0.1.0.0",
     "category": "Customer Relationship Management",
     "website": "https://github.com/OCA/partner-contact",
-    "author": "Nicolas JEUDY,Odoo Community Association (OCA)",
+    "author": "Nicolas JEUDY, BerrySoft Mx, Odoo Community Association (OCA)",
     "contributors": [
         'EL Hadji DEM <elhadji.dem@savoirfairelinux.com>',
         'Jairo Llopis <j.llopis@grupoesoc.es>',
@@ -14,6 +14,7 @@
         'Rudolf Schnapka <schnapkar@golive-saar.de>',
         'Richard deMeester <richard@willowit.com.au>',
         'Nicolas JEUDY <https://github.com/njeudy>',
+        'Marco Martinez <martinezsuarezmarcoalejandro@gmail.com>'
     ],
     "license": "AGPL-3",
     'application': False,
