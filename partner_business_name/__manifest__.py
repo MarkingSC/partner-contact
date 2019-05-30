@@ -2,8 +2,8 @@
     'name': "Business name for partners",
 
     'summary': """
-        This module allows to define a business name for contacts that are 
-        companies.""",
+        This module allows to define a business name for contacts that are
+         companies.""",
 
     'author': 'BerrySoft Mx, '
               'Odoo Community Association (OCA)',
